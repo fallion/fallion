@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 🔭 I’m currently working on Integrations for [capchase](https://capchase.com)
+
 🌱 I’m currently learning Go & Elixir.
+
 💬 Ask me about commit standards and their advantages.
+
 📫 How to reach me: [Twitter](https://twitter.com/fallion)
 
 <!--
