@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Integrations for [capchase](https://capchase.com)
+🔭 
 
 🌱 I’m currently learning Go & Elixir.
 
