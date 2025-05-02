@@ -6,8 +6,6 @@
 
 💬 Ask me about commit standards and their advantages.
 
-📫 How to reach me: [Twitter](https://twitter.com/fallion)
-
 <!--
 **fallion/fallion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
